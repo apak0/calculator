@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+input{
+    text-align: right;
+    width: 100%;
+    color: red;
+    font-weight: 700;
+    height: 3rem;
+    font-size: 50px;
+    
+    
+}
+.calculator{
+    max-width: 250px;
+    border: 2px ridge blue;
+
+}
+
+.box{
+    border: 2px solid black;
+    text-align: center;
+    font-weight: 700;
+    font-size: x-large;
+}
